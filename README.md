@@ -4,6 +4,6 @@ This repository is something which makes my learning curve smooth for the XR Ope
 
 - [x] Three.JS and React Template to setup basic working application.
 - [x] Blender Object added to ThreeJS app.
-- [] ChatGPT and Whisper APIs.
-- [] Explore Text to Speech to Text APIs and implement in tego block.
-- [] AR SDK Kit project making.
+- [ ] ChatGPT and Whisper APIs.
+- [ ] Explore Text to Speech to Text APIs and implement in tego block.
+- [ ] AR SDK Kit project making.
